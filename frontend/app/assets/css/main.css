@@ -1,0 +1,17 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  border-radius: 16px;
+}
+.btn {
+  border-radius: 10px;
+}
+.modal-content {
+  border-radius: 16px;
+}
+.table thead th {
+  font-weight: 600;
+}
+footer {
+  font-size: 0.95rem;
+}
